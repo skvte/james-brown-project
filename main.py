@@ -3,7 +3,7 @@
 #######################################################################################################################  ####################################################################
 from typing import Any, Union
 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 #########################################################################
 # DICTIONARY [ ZODAT PROGRAMMERING WEET WAT ALLES KOST EN HOE HET HEET] #
